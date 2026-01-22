@@ -1,0 +1,13 @@
+# System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.pdf
+*.obsidian
